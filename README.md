@@ -1,0 +1,2 @@
+# BluenoMatch
+Blueno Match is a project that matches people with those who are similar with them based on characteristics such as classes they take and their hobbies. You fill a Google Form and it will match you based on your answers. This event is organized in Brown University every week and can be found on these links: https://www.facebook.com/Blueno-Match-106182585020417 and https://www.youtube.com/watch?v=SoDuSSucQvg
